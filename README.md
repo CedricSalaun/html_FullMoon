@@ -1,4 +1,4 @@
-# FoolMoon
+# FullMoon
 
 Project static made with 
 
