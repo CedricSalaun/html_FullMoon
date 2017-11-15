@@ -6,4 +6,4 @@ Project static made with
 
 [CSS](https://www.w3schools.com/css/css3_intro.asp) version 3,
 
-[BOOTSTAP](http://getbootstrap.com/docs/4.0/getting-started/introduction/) version4.
+[BOOTSTRAP](http://getbootstrap.com/docs/4.0/getting-started/introduction/) version4.
